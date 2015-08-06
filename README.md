@@ -1,8 +1,13 @@
 # StressTracker
 iphone/watch app to track the stress of a person 
 
-Specs for the 1st version 
-- View 
-- Tracking the sensor( zyro censor / heart beat ) : tracking 1 min once in an hour
+### Development plan
+
+#####1st version 
+* Schedule
+  - 8월 26일 까지 완료 
+* Features 
+  - View 개발 :: Stress 지수 표시. 
+  - Tracking the sensor( zyro censor / heart beat ) : tracking heart beat for 1 min per hour
 
 
